@@ -48,4 +48,4 @@ to other existing tools such as etherscan.
 
 # LICENSE
 
-GPL 2.0
+GPL 3.0
